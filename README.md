@@ -1,47 +1,44 @@
-# Hi, I'm Advaith Madala!
+# Advaith Madala
 
-I'm a Software Engineering student at the University of Texas at Dallas, graduating in May 2028.
+Software Engineering student at **The University of Texas at Dallas**, graduating **May 2028**. Seeking **Summer 2027 Software Engineering internships**.
 
-I enjoy building backend systems, financial algorithms, full-stack applications, and AI-powered tools. I'm especially interested in scalable software engineering and solving problems where reliability and technical accuracy matter.
+I build backend APIs, deterministic decision engines, and full-stack prototypes. My interests include algorithms, financial technology, AI, and distributed and asynchronous systems.
 
-## Featured Projects
+## Featured projects
 
-### Toyyo — AI-Powered Automotive Financial Copilot
-**3rd Place, Toyota Financial Services Track | HackUTD 2026**
+### [Toyyo](https://github.com/vishy-m/Toyyo)
+AI-assisted automotive financial decisions: compare ownership scenarios and explore how changing assumptions affects recommendations. Built by a three-person team during a 24-hour hackathon; **3rd Place, Toyota Financial Services Track — HackUTD 2026**.
 
-Developed deterministic TypeScript financial engines and backend APIs for evaluating vehicle ownership decisions, including lease buyouts, payment comparisons, insurance, and protection scenarios.
+**My work:** deterministic financial engines, Next.js/TypeScript APIs, weighted ranking, what-if recalculation, Zod validation, and grounding AI explanations in calculated values. The audited snapshot passes **260 Vitest tests across 20 files** (3 additional tests skipped). **Stack:** Next.js, TypeScript, Zod, Vitest, Gemini/Claude.
 
-Tech: Next.js, TypeScript, React, Zod, Gemini
+### [Elecom](https://github.com/Advaith-1506/elecom-uc)
+Bioacoustics prototype for inspecting elephant vocalizations in noisy recordings. Combines a Python signal-processing pipeline, spectrogram analysis, and optional Gemini multimodal interpretation with a Next.js research dashboard. **Winner, Best Use of Gemini API — HackSMU VII.**
 
-[Explore Toyyo](https://github.com/vishy-m/Toyyo)
+**Engineering:** adaptive noise reduction, harmonic masking, feature extraction, and traceable generated artifacts. **Stack:** Python, NumPy/SciPy, librosa, Next.js, Gemini.
 
-### Elecom — Elephant Bioacoustics Analysis
-**Winner, Best Use of Gemini API | HackSMU VII**
+### [Samsa Prediction Markets](https://github.com/Advaith-1506/samsa)
+Prediction-market simulation exploring probability updates, trade previews, and portfolio tracking. Includes an LMSR-inspired binary pricing engine and Express market/prediction APIs; the Node API currently uses stake-weighted probabilities rather than the browser pricing engine.
 
-Built a multimodal audio-analysis prototype combining signal processing, spectrogram analysis, and AI-assisted interpretation of elephant vocalizations.
+**Engineering:** pricing and settlement calculations, JSON persistence, and explicit API contracts. **Stack:** JavaScript, Node.js, Express; Python pricing implementation. Local prototype for simulated trading.
 
-[Explore Elecom](https://github.com/Advaith-1506/elecom-uc)
+### [Soccer Training Plan Generator](https://github.com/Advaith-1506/Soccer-Training-Plan-Generator)
+Helps coaches assemble time-bounded sessions from player profiles and a drill catalog. Separates domain models, scheduling, HTML views, and a JSON API, with optional heuristic recommendations and readiness scoring.
 
-### Samsa — Prediction Markets
-A prediction market platform featuring an LMSR pricing engine, market APIs, portfolio tracking, and trading simulations.
+**Engineering:** duration constraints, drill selection, coach overrides, and flag-gated ranking with fallback. **Stack:** Python, FastAPI, Pydantic, Jinja2, pytest.
 
-[Explore Samsa](https://github.com/Advaith-1506/samsa)
+## Technical skills
 
-### Soccer Training Plan Generator
-A Python/FastAPI application for generating structured soccer training plans based on player profiles, scheduling constraints, and drill selection.
+- **Languages:** Python, Java, C++, TypeScript, JavaScript, SQL
+- **Web and APIs:** Next.js, React, FastAPI, Node.js, REST APIs
+- **Data and infrastructure:** PostgreSQL, Redis, Celery, Docker
+- **Algorithms and AI:** OR-Tools, financial modeling, machine learning, retrieval-augmented generation
 
-[Explore the Project](https://github.com/Advaith-1506/Soccer-Training-Plan-Generator)
+## Selected experience
 
-## Technical Skills
+- **Artificial Intelligence Society Innovation Lab:** five-agent architecture using Celery and Redis.
+- **SkyAlert:** mentoring a six-student computer-vision team.
+- **Outamation externship:** six-stage mortgage-document retrieval-augmented generation pipeline.
 
-**Languages:** Python, Java, C++, TypeScript, JavaScript, SQL
+## Contact
 
-**Backend & Systems:** FastAPI, Next.js, Node.js, PostgreSQL, Redis, Celery, REST APIs
-
-**AI & Algorithms:** Machine Learning, Retrieval-Augmented Generation, Financial Modeling, OR-Tools
-
-**Tools:** Git, Docker, React, Zod
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/advaith-madala/) | [GitHub](https://github.com/Advaith-1506)
+[LinkedIn](https://www.linkedin.com/in/advaith-madala/) · [GitHub](https://github.com/Advaith-1506)
